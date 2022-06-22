@@ -3,6 +3,12 @@
 ## Google sheet for midproject group registration: 
 https://docs.google.com/spreadsheets/d/1YfWuw4guXyeR3sR1Q0a2GdLiMiEhYKCx8hdDji51qXM/edit?usp=sharing
 
+## How to download/use csv file from the github in your colab
+1. Use in the colab: click the csv file -> click 'Raw' -> Copy the link of new window -> The link should be like https://raw.githubusercontent.com/.. -> Use this in your code in colab
+2. Download: MacOS/Linux: wget https://raw.githubusercontent.com/..  
+Note: to use 'wget' command, you have to first install wget.  
+
+
 ## Day 1 Intro to Ml & Matrices
 - [Slides](https://github.com/xchen793/NYU22SummerSchoolML/blob/main/Day1/Day%20One.pdf)
 - [Basics of Python Lab](https://github.com/xchen793/NYU22SummerSchoolML/blob/main/Day1/demo_python_basics.ipynb)[[Solution]](https://github.com/xchen793/NYU22SummerSchoolML/blob/main/Day1/demo_python_basics_with_solution.ipynb)
