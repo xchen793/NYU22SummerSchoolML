@@ -17,7 +17,7 @@ https://docs.google.com/spreadsheets/d/1YfWuw4guXyeR3sR1Q0a2GdLiMiEhYKCx8hdDji51
 - [demo_boston_housing_one_variable.ipynb](https://github.com/xchen793/NYU22SummerSchoolML/blob/main/Day2/demo_boston_housing_one_variable.ipynb)[[Solution]](https://github.com/xchen793/NYU22SummerSchoolML/blob/main/Day2/demo_boston_housing_one_variable_sol.ipynb)
 - [lab_robot_arm](https://github.com/xchen793/NYU22SummerSchoolML/blob/main/Day2/lab_robot_arm.ipynb)[[Solution]](https://github.com/xchen793/NYU22SummerSchoolML/blob/main/Day2/lab_robot_arm_with_solution.ipynb)
 
-## Day 3 
+## Day 3 Overfitting and Regularization
 - [Slides](https://github.com/xchen793/NYU22SummerSchoolML/blob/main/Day3/Day_3__Overfitting_and_Regularization.pdf)
 - [demo_fit_polynomial](https://github.com/xchen793/NYU22SummerSchoolML/blob/main/Day3/demo_fit_polynomial.ipynb)
 - [demo_overfitting_regularization](https://github.com/xchen793/NYU22SummerSchoolML/blob/main/Day3/demo_overfitting_regularization.ipynb)
