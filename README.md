@@ -1,6 +1,6 @@
 # NYU22SummerSchoolML 2022
 
-## google sheet for midproject group registration: 
+## Google sheet for midproject group registration: 
 https://docs.google.com/spreadsheets/d/1YfWuw4guXyeR3sR1Q0a2GdLiMiEhYKCx8hdDji51qXM/edit?usp=sharing
 
 ## Day 1 Intro to Ml & Matrices
