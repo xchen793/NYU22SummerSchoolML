@@ -1,6 +1,7 @@
 # NYU22SummerSchoolML 2022
 
-## google sheet for midproject group registration: https://docs.google.com/spreadsheets/d/1YfWuw4guXyeR3sR1Q0a2GdLiMiEhYKCx8hdDji51qXM/edit?usp=sharing
+## google sheet for midproject group registration: 
+https://docs.google.com/spreadsheets/d/1YfWuw4guXyeR3sR1Q0a2GdLiMiEhYKCx8hdDji51qXM/edit?usp=sharing
 
 ## Day 1 Intro to Ml & Matrices
 - [Slides](https://github.com/xchen793/NYU22SummerSchoolML/blob/main/Day1/Day%20One.pdf)
@@ -15,8 +16,6 @@
 - [demo icebreaker_movie](https://github.com/xchen793/NYU22SummerSchoolML/blob/main/Day2/icebreaker_movie.ipynb)
 - [demo_boston_housing_one_variable.ipynb](https://github.com/xchen793/NYU22SummerSchoolML/blob/main/Day2/demo_boston_housing_one_variable.ipynb)
 - [lab_robot_arm](https://github.com/xchen793/NYU22SummerSchoolML/blob/main/Day2/lab_robot_arm.ipynb)
-
-
 
 
 ## Learning Resources
