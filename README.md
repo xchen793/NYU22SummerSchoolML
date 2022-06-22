@@ -20,9 +20,9 @@
 
 
 ## Learning Resources
-1. YOLO-V2
+1. YOLO-V2 video ⬇️
 - [YOLO v2](https://www.youtube.com/watch?v=VOC3huqHrss)
-2. Python porgramming
+2. Python porgramming ⬇️
 - [Python programming](https://www.youtube.com/playlist?list=PL-osiE80TeTskrapNbzXhwoFUiLCjGgY7)
-3. Linear Algebra
+3. Linear Algebra ⬇️
 - [Linear Algebra](https://www.youtube.com/playlist?list=PLZHQObOWTQDPD3MizzM2xVFitgF8hE_ab)
