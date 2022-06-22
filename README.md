@@ -12,11 +12,14 @@ https://docs.google.com/spreadsheets/d/1YfWuw4guXyeR3sR1Q0a2GdLiMiEhYKCx8hdDji51
 - [Slides](https://github.com/xchen793/NYU22SummerSchoolML/blob/main/Day2/Day%202%20Linear%20Regression.pdf)
 - [demo Vectorized Programming](https://github.com/xchen793/NYU22SummerSchoolML/blob/main/Day2/vectorize_programming.ipynb)
 - [demo_multilinear](https://github.com/xchen793/NYU22SummerSchoolML/blob/main/Day2/demo_multilinear.ipynb)
+- [[Solution]](https://github.com/xchen793/NYU22SummerSchoolML/blob/main/Day2/demo_multilinear_sol.ipynb)
 - [demo plot](https://github.com/xchen793/NYU22SummerSchoolML/blob/main/Day2/demo_plot.ipynb)
+- [[Solution]](https://github.com/xchen793/NYU22SummerSchoolML/blob/main/Day2/demo_plot_with_solution.ipynb)
 - [demo icebreaker_movie](https://github.com/xchen793/NYU22SummerSchoolML/blob/main/Day2/icebreaker_movie.ipynb)
+- [[Solution]](https://github.com/xchen793/NYU22SummerSchoolML/blob/main/Day2/icebreaker_movie_solution.ipynb)
 - [demo_boston_housing_one_variable.ipynb](https://github.com/xchen793/NYU22SummerSchoolML/blob/main/Day2/demo_boston_housing_one_variable.ipynb)
+- [[Solution]](https://github.com/xchen793/NYU22SummerSchoolML/blob/main/Day2/demo_boston_housing_one_variable_sol.ipynb)
 - [lab_robot_arm](https://github.com/xchen793/NYU22SummerSchoolML/blob/main/Day2/lab_robot_arm.ipynb)
-
 
 ## Learning Resources
 1. YOLO-V2 video ⬇️
