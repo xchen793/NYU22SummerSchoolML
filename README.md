@@ -15,3 +15,11 @@
 - [demo icebreaker_movie](https://github.com/xchen793/NYU22SummerSchoolML/blob/main/Day2/icebreaker_movie.ipynb)
 - [demo_boston_housing_one_variable.ipynb](https://github.com/xchen793/NYU22SummerSchoolML/blob/main/Day2/demo_boston_housing_one_variable.ipynb)
 - [lab_robot_arm](https://github.com/xchen793/NYU22SummerSchoolML/blob/main/Day2/lab_robot_arm.ipynb)
+
+
+
+
+## Learning Resources
+- [YOLO v2](https://www.youtube.com/watch?v=VOC3huqHrss)
+- [Python programming](https://www.youtube.com/playlist?list=PL-osiE80TeTskrapNbzXhwoFUiLCjGgY7)
+- [Linear Algebra](https://www.youtube.com/playlist?list=PLZHQObOWTQDPD3MizzM2xVFitgF8hE_ab)
