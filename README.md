@@ -31,6 +31,11 @@ Note: to use 'wget' command, you have to first install wget.
 - [demo_fit_polynomial](https://github.com/xchen793/NYU22SummerSchoolML/blob/main/Day3/demo_fit_polynomial.ipynb)
 - [demo_overfitting_regularization](https://github.com/xchen793/NYU22SummerSchoolML/blob/main/Day3/demo_overfitting_regularization.ipynb)
 
+## Day 4 Linear Classification
+- [Slides](https://github.com/xchen793/NYU22SummerSchoolML/blob/main/Day4/Day_4__Linear_Classifiers.pdf)
+- [demo_breast_cancer](https://github.com/xchen793/NYU22SummerSchoolML/blob/main/Day4/demo_breast_cancer.ipynb)
+- [demo_iris](https://github.com/xchen793/NYU22SummerSchoolML/blob/main/Day4/demo_iris.ipynb)
+
 ## Learning Resources
 1. YOLO-V2 video ⬇️
 - [YOLO v2](https://www.youtube.com/watch?v=VOC3huqHrss)
