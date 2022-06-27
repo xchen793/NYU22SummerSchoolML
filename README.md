@@ -1,5 +1,9 @@
 # NYU22SummerSchoolML 2022
 
+
+## GOOGLE DRIVE
+https://drive.google.com/drive/folders/1tYQIiNfjIyMhuY9Xhgse6noHWPnvZtRN?usp=sharing
+
 ## Discord channel (homework help/discussion/handouts)
 https://discord.gg/ZePcEump
 
