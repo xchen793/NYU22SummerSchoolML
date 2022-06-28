@@ -44,6 +44,13 @@ Note: to use 'wget' command, you have to first install wget.
 
 ## Day 6 Neural Network
 
+## Day 7 
+
+## Day 8 
+
+## Day 9 Final Presentation
+- [Final Project]
+
 ## Learning Resources
 1. YOLO-V2 video ⬇️
 - [YOLO v2](https://www.youtube.com/watch?v=VOC3huqHrss)
