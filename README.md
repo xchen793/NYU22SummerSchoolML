@@ -1,5 +1,9 @@
 # NYU22SummerSchoolML 2022
 
+##Edited code for loading the cats vs dogs dataset
+setattr(tfds.image_classification.cats_vs_dogs, '_URL',"https://download.microsoft.com/download/3/E/1/3E1C3F21-ECDB-4869-8368-6DEBA77B919F/kagglecatsanddogs_5340.zip")
+(train_ds, test_ds), metadata = tfds.load('cats_vs_dogs', split=['train[:35%]', 'train[90%:95%]'],
+                                          with_info=True, as_supervised=True, shuffle_files=True)
 
 ## GOOGLE DRIVE
 https://drive.google.com/drive/folders/1tYQIiNfjIyMhuY9Xhgse6noHWPnvZtRN?usp=sharing
